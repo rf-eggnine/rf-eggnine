@@ -3,7 +3,7 @@
 Senior software engineer: 19 years across full-stack development, test automation, and DevOps, currently deep in C# and building AI-agentic systems.
 
 - 🔭 Currently building **Sentient Horizon**, a full-stack AI-narrated multiplayer RPG (C#, ASP.NET Core, SignalR, Anthropic Claude API)
-- 🌱 Open source: **[Eggnine.Common](https://github.com/rf-eggnine/Eggnine.Common)** (thread-safe collections, encryption utilities) and security/dependency fixes contributed to **[filesystem-mcp-server](https://github.com/rf-eggnine/filesystem-mcp-server)**
+- 🌱 Open source: **security/dependency fixes contributed to **[filesystem-mcp-server](https://github.com/rf-eggnine/filesystem-mcp-server)**
 - 💬 Happy to talk C, C++, C#, or AI orchestration 
 - 📫 Reach me by email or on LinkedIn
 - 😄 Pronouns: they/them
